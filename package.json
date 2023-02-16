@@ -1,0 +1,13 @@
+{
+  "name": "Download image and replace url",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ThienLV",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "download": "node ./index.js"
+  }
+}

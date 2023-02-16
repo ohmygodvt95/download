@@ -1,0 +1,5 @@
+node_modules
+images/*
+!images/.gitkeep
+.idea
+.vscode
